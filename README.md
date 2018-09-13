@@ -1,3 +1,1 @@
-"# Snake-Game" 
-"# Snake-Game" 
-"# Snake-Game" 
+Java snake game.
